@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "E:\\python-code\\my-venv-a\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true
+}
